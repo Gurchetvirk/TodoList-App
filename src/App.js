@@ -7,11 +7,13 @@ function App() {
   let todos=[
     {
       sno: 1,
+      src: "./Images/market.jpg",
       title: "Go to the market",
       des: "You have to go the the market"
     },
     {
       sno: 2,
+      src: "./Images/drinking-water.jpg",
       title: "Drink Water",
       des: "Please drink water asap!"
     },
